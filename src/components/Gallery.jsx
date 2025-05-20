@@ -20,6 +20,12 @@ const projects = [
         title: 'Autumn Framework',
         image: 'https://raw.githubusercontent.com/NuclearMissile/Autumn/master/autumn.png',
         link: 'https://github.com/NuclearMissile/Autumn'
+    },
+    {
+        id: 4,
+        title: 'React 4096',
+        image: 'https://github.com/NuclearMissile/react-4096/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/react-4096/'
     }
 ];
 
