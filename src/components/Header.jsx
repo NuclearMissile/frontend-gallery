@@ -6,13 +6,15 @@ const Header = () => {
         <header className="header">
             <div className="header-container">
                 <div className="logo">
-                    <h1>Gallery</h1>
+                    <a href="https://github.com/NuclearMissile/frontend-gallery" target="_blank">
+                        <h1>Gallery</h1>
+                    </a>
                 </div>
-                <nav className="nav">
-                    <ul>
-                        <li><a href="https://github.com/NuclearMissile/frontend-gallery">Project</a></li>
-                    </ul>
-                </nav>
+                {/*<nav className="nav">*/}
+                {/*    <ul>*/}
+                {/*        <li><a href="https://github.com/NuclearMissile/frontend-gallery">Project</a></li>*/}
+                {/*    </ul>*/}
+                {/*</nav>*/}
             </div>
         </header>
     );
