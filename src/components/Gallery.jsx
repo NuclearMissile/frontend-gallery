@@ -26,6 +26,12 @@ const projects = [
         title: 'React 4096',
         image: 'https://github.com/NuclearMissile/react-4096/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-4096/'
+    },
+    {
+        id: 5,
+        title: 'React Minesweeper',
+        image: 'https://github.com/NuclearMissile/react-minesweeper/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/react-minesweeper/'
     }
 ];
 
