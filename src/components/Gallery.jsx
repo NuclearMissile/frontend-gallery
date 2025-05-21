@@ -5,21 +5,21 @@ import './Gallery.css';
 const projects = [
     {
         id: 1,
+        title: 'Autumn Framework',
+        image: 'https://raw.githubusercontent.com/NuclearMissile/Autumn/master/autumn.png',
+        link: 'https://github.com/NuclearMissile/Autumn'
+    },
+    {
+        id: 2,
         title: 'React Todo List',
         image: 'https://github.com/NuclearMissile/react-todo-list/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-todo-list'
     },
     {
-        id: 2,
+        id: 3,
         title: 'React Typing Practice',
         image: 'https://github.com/NuclearMissile/react-typing-practice/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-typing-practice/'
-    },
-    {
-        id: 3,
-        title: 'Autumn Framework',
-        image: 'https://raw.githubusercontent.com/NuclearMissile/Autumn/master/autumn.png',
-        link: 'https://github.com/NuclearMissile/Autumn'
     },
     {
         id: 4,
