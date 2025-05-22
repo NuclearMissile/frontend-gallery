@@ -12,35 +12,35 @@ const projects = [
     },
     {
         id: 2,
-        title: 'React Todo List',
+        title: 'Todo List',
         image: 'https://github.com/NuclearMissile/react-todo-list/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-todo-list',
         category: 'React'
     },
     {
         id: 3,
-        title: 'React Typing Practice',
+        title: 'Typing Practice',
         image: 'https://github.com/NuclearMissile/react-typing-practice/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-typing-practice/',
         category: 'React'
     },
     {
         id: 4,
-        title: 'React 4096',
+        title: '4096',
         image: 'https://github.com/NuclearMissile/react-4096/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-4096/',
         category: 'React'
     },
     {
         id: 5,
-        title: 'React Minesweeper',
+        title: 'Minesweeper',
         image: 'https://github.com/NuclearMissile/react-minesweeper/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/react-minesweeper/',
         category: 'React'
     },
     {
         id: 6,
-        title: 'React Gallery',
+        title: 'Gallery',
         image: 'https://github.com/NuclearMissile/frontend-gallery/raw/master/img.png',
         link: 'https://github.com/NuclearMissile/frontend-gallery',
         category: 'React'
