@@ -52,6 +52,13 @@ const projects = [
         link: 'https://github.com/NuclearMissile/KParserc',
         category: 'Kotlin'
     },
+    {
+        id: 8,
+        title: 'Tetris',
+        image: 'https://github.com/NuclearMissile/react-tetris/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/react-tetris',
+        category: 'React'
+    },
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
