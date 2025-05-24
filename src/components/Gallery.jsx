@@ -66,6 +66,13 @@ const projects = [
         link: 'https://nuclearmissile.github.io/typing-practice2',
         category: 'React'
     },
+    {
+        id: 9,
+        title: 'Vue Typing Practice',
+        image: 'https://github.com/NuclearMissile/vue-typing-practice/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/vue-typing-practice',
+        category: 'Vue3'
+    },
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
