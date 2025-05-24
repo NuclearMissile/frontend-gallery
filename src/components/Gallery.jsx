@@ -59,6 +59,13 @@ const projects = [
         link: 'https://nuclearmissile.github.io/react-tetris',
         category: 'React'
     },
+    {
+        id: 8,
+        title: 'Typing Practice2',
+        image: 'https://github.com/NuclearMissile/typing-practice2/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/typing-practice2',
+        category: 'React'
+    },
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
