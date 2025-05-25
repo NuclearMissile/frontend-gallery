@@ -109,11 +109,7 @@ const GalleryItem = ({image, title, link, description, category}) => {
 
             <div className="p-6">
                 <div className="flex items-center justify-between mb-3">
-                    <span className={`px-3 py-1 text-xs font-semibold rounded-full ${
-                        category === 'React' ? 'bg-blue-100 text-blue-700' :
-                            category === 'Vue3' ? 'bg-green-100 text-green-700' :
-                                'bg-purple-100 text-purple-700'
-                    }`}>
+                    <span className={'px-3 py-1 text-xs font-semibold rounded-full text-stone-800 bg-stone-100'}>
                         {category}
                     </span>
                     <Eye
@@ -152,7 +148,7 @@ const GalleryItem = ({image, title, link, description, category}) => {
 
 const Header = () => {
     return (
-        <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg border-b border-gray-200/50 shadow-sm">
+        <header className="sticky top-0 z-50 bg-white/70 backdrop-blur-lg border-b border-gray-200/50 shadow-sm">
             <div className="max-w-7xl mx-auto px-6 py-4">
                 <div className="flex items-center justify-between">
                     <a
