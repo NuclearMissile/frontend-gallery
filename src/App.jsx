@@ -82,6 +82,14 @@ const projects = [
         category: 'Vue3',
         description: 'Typing practice application built with Vue 3'
     },
+    {
+        id: 11,
+        title: 'Snake',
+        image: 'https://github.com/NuclearMissile/react-snake/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/react-snake',
+        category: 'React',
+        description: 'Classic Snake game implemented in React'
+    },
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
