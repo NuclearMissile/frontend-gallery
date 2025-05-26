@@ -159,12 +159,7 @@ const Header = () => {
         <header className="sticky top-0 z-50 bg-white/70 backdrop-blur-lg border-b border-gray-200/50 shadow-sm">
             <div className="max-w-7xl mx-auto px-6 py-4">
                 <div className="flex items-center justify-between">
-                    <a
-                        href="https://github.com/NuclearMissile/frontend-gallery"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="flex items-center space-x-3 hover:opacity-80 transition-opacity duration-300"
-                    >
+                    <div className="flex items-center space-x-3 hover:opacity-80 transition-opacity duration-300">
                         <div
                             className="w-10 h-10 bg-gradient-to-br from-blue-600 to-purple-600 rounded-xl flex items-center justify-center">
                             <Grid className="w-6 h-6 text-white"/>
@@ -172,16 +167,16 @@ const Header = () => {
                         <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
                             Gallery
                         </h1>
-                    </a>
+                    </div>
 
                     <div className="hidden md:flex items-center space-x-6">
                         <a
-                            href="https://github.com/NuclearMissile"
+                            href="https://github.com/NuclearMissile/frontend-gallery"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors duration-300"
                         >
-                            <Link className="w-5 h-5 group-hover:scale-110 transition-transform duration-300" />
+                            <ExternalLink className="w-5 h-5 group-hover:scale-110 transition-transform duration-300"/>
                             <span className="font-medium">GitHub</span>
                         </a>
                     </div>
