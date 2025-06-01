@@ -90,6 +90,14 @@ const projects = [
         category: 'React',
         description: 'Classic Snake game implemented in React'
     },
+    {
+        id: 12,
+        title: 'Wordle',
+        image: 'https://github.com/NuclearMissile/react-wordle/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/react-wordle',
+        category: 'React',
+        description: 'Wordle game implemented in React'
+    },
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
