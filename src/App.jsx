@@ -98,6 +98,14 @@ const projects = [
         category: 'React',
         description: 'Wordle game implemented in React'
     },
+    {
+        id: 13,
+        title: 'Logistic React',
+        image: 'https://github.com/NuclearMissile/logistic-react/raw/master/img.png',
+        link: 'https://nuclearmissile.github.io/logistic-react',
+        category: 'React',
+        description: 'Logistic model and chaos visualization with React'
+    }
 ];
 
 const defaultImageUrl = 'https://avatars.githubusercontent.com/u/16224669';
