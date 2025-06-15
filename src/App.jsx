@@ -104,7 +104,7 @@ const projects = [
         image: 'https://github.com/NuclearMissile/logistic-react/raw/master/img.png',
         link: 'https://nuclearmissile.github.io/logistic-react',
         category: 'React',
-        description: 'Logistic model and chaos visualization with React'
+        description: 'Simulations of chaos, oscillations and attractors.'
     }
 ];
 
